@@ -1,0 +1,233 @@
+/* Экранная клавиатура */
+/* #but54 {
+position: absolute;
+left: 30px;
+width: 300px
+} */
+
+/* Спойлер */
+/* .spoiler:not(.active){
+    display: none;
+} */
+
+/* Вкладки */
+/* .tab:not(.active){
+    display: none;
+} */
+
+/* Игра найди число */
+/* #parent {
+    text-align: center;
+}
+#field {
+    display: inline-block;
+}
+
+#field td {
+    padding: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.active {
+    background: red;
+} */
+
+/* Аккордион */
+/* #accordion {
+    margin: 0 auto;
+    width: 400px;
+}
+.tab {
+    margin-bottom: 10px;
+}
+.tab .link a {
+    display: block;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    background: #f8f8f8;
+    border: 1px solid gray;
+}
+.tab .link:hover a {
+    background: #f2f2f2;
+}
+
+.tab:not(.active) .text {
+    display: none;
+}
+.tab .text {
+    border: 1px dashed gray;
+    border-top: none;
+    
+    padding: 10px;
+    height: 300px;
+} */
+
+/* Игра в города */
+/* #field{
+    width: 350px;
+} */
+/* Чеклист */
+
+/* #input, #list {
+    display: inline-block;
+}
+
+#list {
+    padding: 0;
+    list-style-type: none;
+}
+#list span {
+    margin-right: 5px;
+}
+#list .remove, #list .mark {
+    color: blue;
+    cursor: pointer;
+}
+#list .remove:hover, #list .mark:hover {
+    text-decoration: underline;
+}
+
+#list .done .task {
+    text-decoration: line-through;
+} */
+
+/* Калькулятор продуктов */
+/* * {
+    box-sizing: border-box;
+}
+#parent {
+    margin: 0 auto;
+    width: 500px;
+}
+
+#form {
+    display: flex;
+    margin-bottom: 15px;
+}
+#form input {
+    padding: 8px;
+    width: 24%;
+    margin: 0 0.5% 10px 0.5%;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 7px;
+}
+
+#tableProducts {
+    width: 100%;
+    margin-bottom: 10px;
+}
+#tableProducts td, #tableProducts th {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid black;
+}
+#tableProducts td.remove {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#tableProducts td.remove:hover {
+    text-decoration: none;
+}
+
+#result {
+    text-align: right;
+    margin-right: 10px;
+} */
+
+/* Тесты */
+/* .right {
+    border: 1px solid green;
+}
+.wrong {
+    border: 1px solid red;
+} */
+
+
+/* Игра крестики-нолики */
+/* h1{
+    color: #7d84ec;
+    text-align: center;
+    font-size: 90px; 
+}
+#gameboard {
+    background-color: #aabcee;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 300px;
+    margin: 0 auto;
+    border: 2px solid black;
+    font-size: 50px;
+    text-align: center;
+}
+.rectangle {
+    width: 98px;
+    height: 90px;
+    border: 1px solid black;
+    font-size: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.rectangle:hover {
+    background-color: #f5f5f5;
+}
+.rectangle.x:before {
+    content: "X";
+}
+.rectangle.o:before {
+    content: "O";
+}
+    .X {
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(103, 64, 27);
+}
+    .O {
+      font-family: Arial, Helvetica, sans-serif;      
+      color: rgb(0, 0, 0);
+}
+#message {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+margin-top: 20px;
+text-align: center;
+font-size: 50px;
+color: #dacbb0;
+text-shadow: 2px 0 2px #000, 0 2px 2px #000, -2px 0 2px #000, 0 -2px 2px #000;
+}
+#newgame{
+    display: block; 
+    margin: 0 auto; 
+    font-size: 40px;
+    border: 2px solid #000
+} */
+
+
+/* Игра смена цветов */
+/* .cell {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+} */
+
+
+/* Календарь */
+/* #parent {
+	text-align: center;
+}
+#calendar {
+	display: inline-block;
+}
+#calendar td, #calendar th {
+	padding: 5px 12px;
+	border: 1px solid black;
+	text-align: center;
+} */
